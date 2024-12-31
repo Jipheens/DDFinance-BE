@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5AIF+5ygAIXb8y5FzBJR1ROshm40HDkS8JpTQkINkQg=",
+  "Source": "InsurancePolicyApi",
+  "BasePath": "_content/InsurancePolicyApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

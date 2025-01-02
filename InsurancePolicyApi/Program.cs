@@ -22,7 +22,7 @@ builder.Services.AddCors(options =>
     {
         policy.AllowAnyOrigin()  
               .WithMethods("GET", "POST", "PUT", "DELETE")  
-              .WithHeaders("Content-Type", "Authorization", "departmentcode", "username", "branchCode", "costCenterCode", "MemberCode");  // Allow specific headers including 'departmentcode'
+              .WithHeaders("Content-Type", "Authorization", "departmentcode", "username", "branchCode", "costCenterCode", "MemberCode");  
     });
 });
 
